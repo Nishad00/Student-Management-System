@@ -1,0 +1,6 @@
+1	1	www	/	@.sssdds	7878787878	{'OOT': 74, 'CNT': 85}
+1	1	www	/	@.sssdds	7878787878	{'OOT': 74, 'CNT': 85}
+2	2	eee	/	@>kdd.dfdffd	6666666666	{'OOT': 25, 'CNT': 14}
+1	1	eee	/	@>df/df.ffdfd	7878787878	{'OOT': 22, 'CNT': 41}
+1	1	www	/	@.kdjdkfjd	7777777777	{'OOT': 45, 'CNT': 89}
+1	1	www	/	@>dldjdkgd.ggd	5555555555	{'OOT': 78, 'CNT': 45}
